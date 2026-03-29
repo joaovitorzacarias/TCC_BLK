@@ -3,7 +3,7 @@
 
 ## 🧾 Sobre o Projeto
 
-Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) e tem como objetivo criar um sistema web para gestão de clientes e serviços, facilitando o controle, organização e acompanhamento das atividades de uma empresa.
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) e tem como objetivo criar um sistema web para gestão de clientes e serviços, facilitando o controle, organização e acompanhamento das atividades de uma empresa de higienização.
 
 A aplicação permite o cadastro de clientes, gerenciamento de serviços prestados, controle de status e histórico, contribuindo para maior eficiência e produtividade.
 
@@ -31,7 +31,7 @@ A aplicação permite o cadastro de clientes, gerenciamento de serviços prestad
 
 ### Backend
 
-* ( Node.js / Python-flask)
+* Python-flask
 
 
 ### Banco de Dados
@@ -58,7 +58,7 @@ A aplicação permite o cadastro de clientes, gerenciamento de serviços prestad
 
 ### Pré-requisitos
 
-* Node.js / PHP / Python instalado
+* Python instalado
 * Gerenciador de pacotes (npm, yarn, composer, etc.)
 * Banco de dados configurado
 
@@ -115,9 +115,9 @@ npm start
 
 ## 👨‍💻 Autor
 
-Desenvolvido por: *Seu Nome*
-Curso: **
-Instituição: *Nome da Instituição*
+Desenvolvido por: *joão vitor,washintong,caique joão*
+Curso: *DESENVOLVIMENTO DE SISTEMAS*
+Instituição: *ETE MFL*
 
 ---
 
@@ -149,3 +149,4 @@ Para dúvidas ou sugestões, entre em contato:
 
 ---
 
+## A descrição não está completa!
